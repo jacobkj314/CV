@@ -30,7 +30,7 @@
 \addtolength{\oddsidemargin}{0.0in}
 \addtolength{\evensidemargin}{0.0in}
 \addtolength{\textwidth}{0.0in}
-\addtolength{\topmargin}{0.2in}
+\addtolength{\topmargin}{-0.5in}
 \addtolength{\textheight}{0.0in}
 
 
@@ -41,7 +41,7 @@
 \setlength{\tabcolsep}{0in}
 
 \titleformat{\section}{
-  \it\vspace{3pt}
+  \it\vspace{-5pt}
 }{}{0em}{}[\color{black}\titlerule\vspace{-5pt}]
 
 \pdfgentounicode=1
@@ -53,7 +53,7 @@
 }
 
 \newcommand{\resumeSubheading}[4]{
-  \vspace{-2pt}\item
+  \vspace{-5pt}\item
     \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
       \textbf{#1} & #2 \\
       %\textit{\small #3} & \textit{\small #4} \\
@@ -63,10 +63,10 @@
 
 \newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-3pt}}
 \renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
-\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListStart}{\vspace{1pt}\begin{itemize}[leftmargin=0.15in, label={}]}
 \newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
 \newcommand{\resumeItemListStart}{\begin{itemize}}
-\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-2pt}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
 
 %\titlespacing*{\section}{0pt}{-3ex}{2ex}
 
@@ -75,6 +75,7 @@
 % % % % %
 
 \begin{document}
+
 
 
 \begin{center}
@@ -86,11 +87,11 @@
     \end{flushleft}
 
     \begin{center}
-    \href{{https://nnnNNnnn.info}}{\large{https://jacob.ml}} \\
+    \href{{https://nnnNNnnn.info}}{\large{https://nnnNNnnn.info}} \\
     \end{center}
     
     \begin{flushright}
-    \href{mailto:{jacobkj314@gmail.com}} \large{jacobkj314@gmail.com}
+    \href{mailto:{jacob@nnnnnnnn.info}} \large{jacob@nnnNNnnn.info}
     \end{flushright}
     
     \end{multicols}
@@ -108,17 +109,77 @@
 %\end{itemize}
 
 
+\section{Relevant Personal Experience}
+\resumeSubHeadingListStart
+    \resumeSubheading
+        {Hardware Experience}{}{}{}
+        \resumeItemListStart\small
+            \resumeItem{I built my personal computer in 2022 and have since upgraded the storage.}
+            \resumeItem{I bought seven used Dell 3350s in 2022 and have performed many hardware improvements, including upgrading SSDs and RAM, replacing Wi-Fi cards, etc. Some of these I have sold to friends and family, others I have used as personal laptops, others I have used as servers, etc.}
+        \resumeItemListEnd
+    \resumeSubheading
+        {Software Experience}{}{}{}
+        \resumeItemListStart\small
+            \resumeItem{I have used Windows repair to reinstall windows while retaining files, and Macrium to transfer Windows installations to larger drives.}
+            \resumeItem{I have created fresh installations of Windows, Linux Mint, and Arch Linux.}
+            \resumeItem{I have deployed Minecraft Servers, Apache Web Servers, VSCode code servers and have a decent grasp of networking.}
+            \resumeItem{I am expert in Python, proficient in Java/C\#, and familiar with bash and C/C++}
+        \resumeItemListEnd   
+
+\resumeSubHeadingListEnd
+
+\section{Work Experience}
+\resumeSubHeadingListStart
+    \resumeSubheading
+        {Teaching Assistant at University of Utah Kahlert School of Computing}{Fall 2021 -- Spring 2023}{}{}
+        \resumeItemListStart\small
+            \resumeItem{I taught computer labs, gave feedback on graded assignments, and explained topics to students for a range of undergraduate and graduate computer science courses}
+            \resumeItem{I honed customer service skills and the ability to explain things accurately and helpfully}
+        \resumeItemListEnd
+    
+    \resumeSubheading
+        {Training Data Labeling Intern at FamilySearch}{May -- September 2024}{}{}
+        \resumeItemListStart\small
+            \resumeItem{I labeled historical records in high detail to be used for Machine Learning training}
+            \resumeItem{I practiced excellent attention to detail and developed several useful tools for data labeling}
+        \resumeItemListEnd
+
+    \resumeSubheading
+        {Assistant Aquatics Director at Camp Tifie, BSA}{Summer 2021}{}{}
+        \resumeItemListStart\small
+            \resumeItem{I maintained pool equipment, taught swimming and water rescue skills, and performed lifeguarding}
+            \resumeItem{I used customer service and explanation skills for interacting with campers, and physical strength/endurance for equipment maintenance and lifeguarding}
+        \resumeItemListEnd
+
+    \resumeSubheading
+        {Production and Picking Associate at Loftus International }{May 2020 -- March 2021}{}{}
+        \resumeItemListStart\small
+            \resumeItem{I assembled and packaged products and selected products from inventory for orders}
+            \resumeItem{I used physical coordination for assembling small parts, and gained inventory management and navigation skills}
+        \resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+
+
 %-----------EDUCATION-----------
 % Please list your current institution first and then past schools in reverse chronology. No need for GPA, etc. You do not need to include high school but may do so if there are accomplishments you would like to highlight.
 \section{Education}
 \resumeSubHeadingListStart
     \resumeSubheading
-        {Ph.D. in Computer Science, University of Utah}{Fall 2023 -- Present}
+        {M.S. in Computer Engineering, Weber State University}{Fall 2024 -- Present}
         {}{}
         \resumeItemListStart\small
+            \resumeItem{Currently taking Electrical Engineering Prerequisites: ECE 3610 ``Digital Systems'', ECE 1270 ``Introduction to Electrical Circuits''}
+        \resumeItemListEnd
+    \resumeSubheading
+        {Ph.D. in Computer Science, University of Utah}{Fall 2023 -- Spring 2024}
+        {}{}
+        \resumeItemListStart\small
+            \resumeItem{Ended the program early to change topic of interest}
             \resumeItem{Cumulative GPA of 4.0}
-            \resumeItem{Student of \href{{https://www.anamarasovic.com/}}{Ana Marasović} in \href{{https://nlp.cs.utah.edu/}}{UtahNLP} research lab}
-            \resumeItem{Relevant Courses: CS 6350 ``Machine Learning'', CS 6966 ``Local Explanations for Deep Learning''}
+            % \resumeItem{Student of \href{{https://www.anamarasovic.com/}}{Ana Marasović} in \href{{https://nlp.cs.utah.edu/}}{UtahNLP} research lab}
+            \resumeItem{Courses Include: CS 6350 ``Machine Learning'', CS 6150 ``Graduate Algorithms''}
         \resumeItemListEnd
     \resumeSubheading
         {B.A. in Linguistics, University of Utah}{Spring 2020 -- Spring 2023}
@@ -126,9 +187,19 @@
         \resumeItemListStart\small
             \resumeItem{Computer Science minor, \href{{https://linguistics.utah.edu/undergraduate/computational-linguistics-certificate/index.php}}{Computational Linguistics certificate}}
             \resumeItem{Cumulative GPA of 4.0}
-            \resumeItem{Relevant Courses: CS 5340 ``Natural Language Processing'', CS 6390 ``Information Extraction (from text)'', LING 5300 ``Computational Linguistics'', CS 6353 ``Deep Learning'', LING 5190 ``Psycholinguistics''}
+            %%% \resumeItem{Courses Include: CS 5340 ``Natural Language Processing'', CS 6390 ``Information Extraction (from text)'', LING 5300 ``Computational Linguistics'', CS 6353 ``Deep Learning'', LING 5190 ``Psycholinguistics''}
+            \resumeItem{Courses Include: CS 5340 ``Natural Language Processing'', CS 6390 ``Information Extraction (from text)'', LING 5300 ``Computational Linguistics'', CS 6353 ``Deep Learning''}
         \resumeItemListEnd
 \resumeSubHeadingListEnd
+
+
+
+
+
+
+
+
+
 
 
 
@@ -144,32 +215,40 @@
 \resumeSubHeadingListStart
 
     \resumeSubheading
-        {\href{https://aclanthology.org/2023.blackboxnlp-1.19/}{How much Consistency is your Accuracy Worth?}}{}{}{}
+        {``Online Learning of ITSL Grammars''}{}{}{}
         \resumeItemListStart\small
-            \resumeItem{Accepted to BlackBoxNLP at EMNLP2023}
-            \resumeItem{Coauthored with \href{{https://www.anamarasovic.com/}}{Ana Marasović}}
-            \resumeItem{Introducing \textit{Relative Consistency}, a probabilistic measurement to compare consistency of models at different levels of accuracy}
+            % \resumeItem{Presented at SCiL (Society for Computation in Linguistics) 2024 and published in proceedings}
+            % \resumeItem{Coauthored with \href{{https://aniellodesanto.github.io/}}{Aniello De Santo}}
+            \resumeItem{I developed, implemented, and evaluated an algorithm for learning ITSL languages}
         \resumeItemListEnd
 
     \resumeSubheading
-        {\href{https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1268\&context=scil}{Evaluating a Phonotactic Learner for MITSL-(2,2) Languages}}{}{}{}
+        {\href{https://aclanthology.org/2023.blackboxnlp-1.19/}{``How much Consistency is your Accuracy Worth?''}}{}{}{}
         \resumeItemListStart\small
-            \resumeItem{Presented at SCiL (Society for Computation in Linguistics) 2023 and published in proceedings}
-            \resumeItem{Coauthored with \href{{https://aniellodesanto.github.io/}}{Aniello De Santo}}
-            \resumeItem{An implementation and evaluation of \href{https://aclanthology.org/2021.scil-1.16.pdf}{MITSL2IA learning algorithm} for learning MITSL$_2^2$ languages}
+            %\resumeItem{Presented at BlackBoxNLP at EMNLP2023}
+            %\resumeItem{Coauthored with \href{{https://www.anamarasovic.com/}}{Ana Marasović}}
+            \resumeItem{I developed \textit{Relative Consistency}, a probabilistic measurement to compare consistency of models at different levels of accuracy}
+        \resumeItemListEnd
+
+    \resumeSubheading
+        {\href{https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1268\&context=scil}{``Evaluating a Phonotactic Learner for MITSL-(2,2) Languages''}}{}{}{}
+        \resumeItemListStart\small
+            % \resumeItem{Presented at SCiL (Society for Computation in Linguistics) 2023 and published in proceedings}
+            % \resumeItem{Coauthored with \href{{https://aniellodesanto.github.io/}}{Aniello De Santo}}
+            \resumeItem{I implemented and evaluated the \href{https://aclanthology.org/2021.scil-1.16.pdf}{MITSL2IA learning algorithm} for learning MITSL$_2^2$ languages}
         \resumeItemListEnd
 
     %This entry is kinda janky, don't use it as an example
     \resumeSubheading
-        {{The Effects of Exposure and Explicit Stereotypes on Veracity Judgments of Polish-Accented}}{}{}{}
-    \vspace{-12pt}
+        {{\href{{https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/effects-of-exposure-and-explicit-stereotypes-on-veracity-judgments-of-polishaccented-english-speech-a-preregistered-close-replication-and-extension-of-boduchgrabka-levari-2021/EF03B7A762B1442206B537F0AD4447A4}}{``The Effects of Exposure and Explicit Stereotypes on Veracity Judgments of Polish-Accented}}}{}{}{}
+    \vspace{-9pt}
     \resumeSubheading
-        {{English Speech: A Replication and Extension of Boduch-Grabka \& Lev-Ari (2021)}}{}{}{}
+        {{\href{{https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/effects-of-exposure-and-explicit-stereotypes-on-veracity-judgments-of-polishaccented-english-speech-a-preregistered-close-replication-and-extension-of-boduchgrabka-levari-2021/EF03B7A762B1442206B537F0AD4447A4}}{English Speech: A Replication and Extension of Boduch-Grabka \& Lev-Ari (2021)''}}}{}{}{}
         \resumeItemListStart\small
-            \resumeItem{Accepted for publication in 2024 Special Replication Edition of SSLA (Studies in Second-Language Acquisition)}
-            \resumeItem{Coauthored with \href{{https://sites.google.com/view/speech-acquisition-lab/rachel-hayes-harb}}{Rachel Hayes-Harb} of \href{{https://sites.google.com/view/speech-acquisition-lab/}}{Speech Acquisition Lab}, and a large team of undergraduates}
-            \resumeItem{A replication study investigating to what effect cognitive load and stereotypical beliefs influence veracity judgements of ``accented'' speech}
+            % \resumeItem{Coauthored with \href{{https://sites.google.com/view/speech-acquisition-lab/rachel-hayes-harb}}{Rachel Hayes-Harb} of \href{{https://sites.google.com/view/speech-acquisition-lab/}}{Speech Acquisition Lab}, and a large team of undergraduates}
+            % \resumeItem{A replication study investigating to what effect cognitive load and stereotypical beliefs influence veracity judgements of ``accented'' speech}
             \resumeItem{I substantially contributed to developing the interface for data collection in the online study}
+            % \resumeItem{This paper received a \href{{https://improvingpsych.org/mission/awards/}}{Society for Improving Psychological Science Commendation}} 
         \resumeItemListEnd
 
     %\resumeSubheading
@@ -183,9 +262,14 @@
     %        \resumeItem{A study investigating English speakers' lexicalization of Hindi contrasts}
     %    \resumeItemListEnd
 
+
+
+
+
     
 \resumeSubHeadingListEnd
 
+\iffalse
 
 %-----------AWARDS / HONORS-----------
 \section{Awards/Honors}
@@ -198,10 +282,11 @@
     \resumeSubheading
       {Allan A. \& Renee Wright Hagander Book Award}{Fall 2022}{}{}
 
-    \resumeSubheading
-      {University of Utah Presidential Scholarship}{Spring 2020 - Spring 2023}{}{}
+    %\resumeSubheading
+    %  {University of Utah Presidential Scholarship}{Spring 2020 - Spring 2023}{}{}
     
 \resumeSubHeadingListEnd
+
 
 
 
@@ -225,17 +310,43 @@
 \resumeSubHeadingListEnd
 
 
-
- %-----------SKILLS-----------
+%-----------SKILLS-----------
 \section{Skills}
 % Also an optional section, for any hobbies, sports, artistic and musical pursuits, etc. that you would like to include. You can include as many or as few as you like: delete or add as needed. 
 \begin{itemize}[leftmargin=0.15in, label={}]
     \normalsize{\item{
-     Fluent in German \\
-     Proficient at Java, C\#, and Python (including PyTorch and HuggingFace libraries) \\
-     Familiar with Git/GitHub, LaTeX, VScode
-    }}    
- \end{itemize}   
+        Fluent in German \\
+        Proficient at Java, C\#, and Python (including PyTorch and HuggingFace libraries) \\
+        Familiar with Git/GitHub, LaTeX, VScode
+        }}    
+\end{itemize}   
+    
+\fi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
