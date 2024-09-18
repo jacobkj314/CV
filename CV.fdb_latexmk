@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1726408830.27549 "CV.tex" "CV.pdf" "CV" 1726408831.24471 0
+["pdflatex"] 1726627891.75406 "CV.tex" "CV.pdf" "CV" 1726627892.87468 0
   "/usr/share/texmf-dist/fonts/enc/dvips/baskervillef/zba_uf5aa7.enc" 1716849630 2988 9dc2712ba6e6dcb67c459dabfcdb6a75 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1716849630 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecrm1095.tfm" 1716849630 3584 929cdff2b7a8c11bd4d49fd68cb0ae70 ""
@@ -104,9 +104,9 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1716849630 41588 b43d3e860a4f94167ee1e725ff526a72 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1725591952.5396 5307366 7c8b2c5f25a30f46e808245b8e6cf269 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1725591911 7113017 5b6dde9a0cf3a63b6bf3e9c2754b2c93 ""
-  "CV.aux" 1726408831.10408 706 c2cbc047df27a1b5fcd6fc124d2ca4dd "pdflatex"
-  "CV.out" 1726408831.10741 564 df4ee699f541cca9d78cbd6fed9d661f "pdflatex"
-  "CV.tex" 1726408824.98747 22768 ef48d88ffd75d3485d8445b6738f6591 ""
+  "CV.aux" 1726627892.73538 706 c2cbc047df27a1b5fcd6fc124d2ca4dd "pdflatex"
+  "CV.out" 1726627892.73538 564 df4ee699f541cca9d78cbd6fed9d661f "pdflatex"
+  "CV.tex" 1726627888.17549 22720 326ed005166a2116cb9fadff4ace9ed8 ""
   (generated)
   "CV.aux"
   "CV.log"
