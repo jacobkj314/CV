@@ -201,10 +201,10 @@ INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/share/texmf-dist/fonts/enc/dvips/baskervillef/zba_uf5aa7.enc
 INPUT /usr/share/texmf-dist/fonts/vf/public/baskervillef/BaskervilleF-Regular-tlf-t1.vf
 INPUT /usr/share/texmf-dist/fonts/tfm/public/baskervillef/BaskervilleF-Regular-tlf-t1--base.tfm
-INPUT /usr/share/texmf-dist/fonts/vf/public/baskervillef/BaskervilleF-Regular-tlf-t1.vf
-INPUT /usr/share/texmf-dist/fonts/tfm/public/baskervillef/BaskervilleF-Regular-tlf-t1--base.tfm
 INPUT /usr/share/texmf-dist/fonts/vf/public/baskervillef/BaskervilleF-Italic-tlf-t1.vf
 INPUT /usr/share/texmf-dist/fonts/tfm/public/baskervillef/BaskervilleF-Italic-tlf-t1--base.tfm
+INPUT /usr/share/texmf-dist/fonts/vf/public/baskervillef/BaskervilleF-Regular-tlf-t1.vf
+INPUT /usr/share/texmf-dist/fonts/tfm/public/baskervillef/BaskervilleF-Regular-tlf-t1--base.tfm
 INPUT /usr/share/texmf-dist/fonts/vf/public/baskervillef/BaskervilleF-Bold-tlf-t1.vf
 INPUT /usr/share/texmf-dist/fonts/tfm/public/baskervillef/BaskervilleF-Bold-tlf-t1--base.tfm
 INPUT /usr/share/texmf-dist/fonts/vf/public/baskervillef/BaskervilleF-Regular-tlf-t1.vf
