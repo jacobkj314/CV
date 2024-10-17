@@ -194,7 +194,6 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/latex-fonts/lasy7.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/latex-fonts/lasy5.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/baskervillef/BaskervilleF-Regular-tlf-t1.tfm
-INPUT /usr/share/texmf-dist/fonts/tfm/public/baskervillef/BaskervilleF-Italic-tlf-t1.tfm
 INPUT /usr/share/texmf-dist/fonts/vf/public/baskervillef/BaskervilleF-Regular-tlf-t1.vf
 INPUT /usr/share/texmf-dist/fonts/tfm/public/baskervillef/BaskervilleF-Regular-tlf-t1--base.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
@@ -209,8 +208,6 @@ INPUT /usr/share/texmf-dist/fonts/vf/public/baskervillef/BaskervilleF-Bold-tlf-t
 INPUT /usr/share/texmf-dist/fonts/tfm/public/baskervillef/BaskervilleF-Bold-tlf-t1--base.tfm
 INPUT /usr/share/texmf-dist/fonts/vf/public/baskervillef/BaskervilleF-Regular-tlf-t1.vf
 INPUT /usr/share/texmf-dist/fonts/tfm/public/baskervillef/BaskervilleF-Regular-tlf-t1--base.tfm
-INPUT /usr/share/texmf-dist/fonts/vf/public/baskervillef/BaskervilleF-Italic-tlf-t1.vf
-INPUT /usr/share/texmf-dist/fonts/tfm/public/baskervillef/BaskervilleF-Italic-tlf-t1--base.tfm
 INPUT CV.aux
 INPUT ./CV.out
 INPUT ./CV.out

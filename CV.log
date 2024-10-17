@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.9.5)  2 OCT 2024 21:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.10.13)  16 OCT 2024 19:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -606,28 +606,26 @@ LaTeX Font Info:    Font shape `T1/BaskervilleF-TLF/m/n' will be
 LaTeX Font Info:    Font shape `T1/BaskervilleF-TLF/m/it' will be
 (Font)              scaled to size 10.95pt on input line 134.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 151.
+(Font)              <10.95> on input line 153.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 151.
+(Font)              <8> on input line 153.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 151.
+(Font)              <6> on input line 153.
 LaTeX Font Info:    Trying to load font information for U+lasy on input line 15
-1.
+3.
  (/usr/share/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    Font shape `T1/BaskervilleF-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 151.
+(Font)              scaled to size 10.95pt on input line 153.
 LaTeX Font Info:    Font shape `T1/BaskervilleF-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 152.
+(Font)              scaled to size 10.0pt on input line 154.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 153.
+(Font)              <7> on input line 155.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 153.
+(Font)              <5> on input line 155.
 LaTeX Font Info:    Font shape `T1/BaskervilleF-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 153.
-LaTeX Font Info:    Font shape `T1/BaskervilleF-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 274.
+(Font)              scaled to size 6.0pt on input line 155.
 
 [1
 
@@ -638,14 +636,14 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: 32E964379F9541C229D26BF4D824CAF6;433.
+(rerunfilecheck)             Checksum: 218EAB310F46BED3A3C558DDF638CEA4;443.
  ) 
 Here is how much of TeX's memory you used:
- 12061 strings out of 476076
- 188143 string characters out of 5793776
- 1968187 words of memory out of 5000000
- 33991 multiletter control sequences out of 15000+600000
- 703414 words of font info for 67 fonts, out of 8000000 for 9000
+ 12059 strings out of 476076
+ 188084 string characters out of 5793774
+ 1969187 words of memory out of 5000000
+ 33990 multiletter control sequences out of 15000+600000
+ 681982 words of font info for 65 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,11n,79p,323b,480s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/baskervillef/BaskervilleF-Bold.pfb>
@@ -653,7 +651,7 @@ Here is how much of TeX's memory you used:
 </usr/share/texmf-dist/fonts/type1/public/baskervillef/BaskervilleF-Regular.pfb
 ></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on CV.pdf (1 page, 108447 bytes).
+Output written on CV.pdf (1 page, 107398 bytes).
 PDF statistics:
  56 PDF objects out of 1000 (max. 8388607)
  42 compressed objects within 1 object stream
