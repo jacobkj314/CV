@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1730129610.0008 "CV.tex" "CV.pdf" "CV" 1730129611.22701 0
+["pdflatex"] 1730130267.58141 "CV.tex" "CV.pdf" "CV" 1730130268.45329 0
   "/usr/share/texmf-dist/fonts/enc/dvips/baskervillef/zba_uf5aa7.enc" 1727349926 2988 9dc2712ba6e6dcb67c459dabfcdb6a75 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1727349926 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecrm1095.tfm" 1727349926 3584 929cdff2b7a8c11bd4d49fd68cb0ae70 ""
@@ -23,7 +23,6 @@
   "/usr/share/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm" 1727349926 520 4889cce2180234b97cad636b6039c722 ""
   "/usr/share/texmf-dist/fonts/tfm/public/latex-fonts/lasy7.tfm" 1727349926 520 a74c6ed8cb48679fdc3ea874d9d34a7e ""
   "/usr/share/texmf-dist/fonts/tfm/public/latex-fonts/lasy8.tfm" 1727349926 520 7bb3abb160b19e0ed6ac404bb59052b7 ""
-  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1727349926 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb" 1727349926 32587 1788b0c1c5b39540c96f5e42ccd6dae8 ""
   "/usr/share/texmf-dist/fonts/type1/public/baskervillef/BaskervilleF-Bold.pfb" 1727349926 136045 762135b6729428536493cfa000a141b6 ""
   "/usr/share/texmf-dist/fonts/type1/public/baskervillef/BaskervilleF-Italic.pfb" 1727349926 152351 ed50eb71cf083bb8af508f0a3e5bf678 ""
@@ -104,9 +103,9 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1727349926 41588 b43d3e860a4f94167ee1e725ff526a72 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1728850738.24481 5307366 7c8b2c5f25a30f46e808245b8e6cf269 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1728850697 7113012 2e38131dbf63583e27841f9addfdd41e ""
-  "CV.aux" 1730129611.07047 706 e1cc6be44a06ecfd6c710459f8dfbfb3 "pdflatex"
-  "CV.out" 1730129611.07381 564 df4ee699f541cca9d78cbd6fed9d661f "pdflatex"
-  "CV.tex" 1730129601.7909 23936 47e0d69b674340b2dee06d65aa38ff2e ""
+  "CV.aux" 1730130268.33434 693 c5422e6f1a35542ad7a28e90c5c67372 "pdflatex"
+  "CV.out" 1730130268.33434 496 c02e367a39e280ee5775be239c31c186 "pdflatex"
+  "CV.tex" 1730130265.43772 24929 090592c93ab6cf2e29fdccd5d05c605e ""
   (generated)
   "CV.aux"
   "CV.log"
